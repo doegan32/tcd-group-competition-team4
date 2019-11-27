@@ -2,6 +2,8 @@
 ## Team4's entry for TCD CS7CS4 machine learning group competition 2019/20 
 ## Competition Goal: predict the income.
 
+<b> N.B. if you are having trouble viewing the notebook please use the nbviewer link: https://nbviewer.jupyter.org/github/doegan32/tcd-group-competition-team4/blob/master/final.ipynb </b>
+
 To run the code in the jupyter-notebook the following libraries are required:
 <ul><li> numpy </li><li>pandas</li><li>sklearn (scikit-learn)</li><li>lightgbm</li></ul>
 
